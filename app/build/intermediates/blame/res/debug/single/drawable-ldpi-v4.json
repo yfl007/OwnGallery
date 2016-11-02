@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_allphoto.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_allphoto.png"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_allphotoselect.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_allphotoselect.png"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cameradeselect.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_cameradeselect.png"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_cameraselect.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_cameraselect.png"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\checkmark.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\checkmark.png"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_videoselect.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_videoselect.png"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_videodeselect.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-ldpi\\ic_videodeselect.png"
+    }
+]

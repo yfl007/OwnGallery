@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\list_selector.xml",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_allpic.xml",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\selector_allpic.xml"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\transparent.xml",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\transparent.xml"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_camera.xml",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\selector_camera.xml"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\selector_video.xml",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\selector_video.xml"
+    },
+    {
+        "merged": "E:\\Code\\app\\OwnGalleryView\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\ic_loading_white.png",
+        "source": "E:\\Code\\app\\OwnGalleryView\\app\\src\\main\\res\\drawable-nodpi\\ic_loading_white.png"
+    }
+]

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OwnGallery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="mark">Mark</string>
+    <!-- Tool -->
+    <string name="openDrawer">openDrawer</string>
+    <string name="closeDrawer">closeDrawer</string>
+    <string name="select_item">Selected:</string>
+    <string name="action_select_all">Select all</string>
+    <string name="action_deselect_all">Unselect all</string>
+    <string name="delete">Delete</string>
+</resources>
