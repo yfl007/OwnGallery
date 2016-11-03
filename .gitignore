@@ -1,0 +1,5 @@
+#exclude file or directory
+build/
+app/build
+.gradle
+.idea
